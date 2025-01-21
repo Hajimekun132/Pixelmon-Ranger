@@ -61,29 +61,24 @@
         <h1>Bienvenidos a Pixelmon Rangers</h1>
         <p>¡El servidor definitivo para los amantes de Pixelmon y Pokémon!</p>
     </header>
-
     <section>
         <h2>Características</h2>
         <p>Próximamente añadiremos las increíbles características de nuestro servidor. ¡Mantente atento!</p>
     </section>
-
     <section>
         <h2>Cómo unirse</h2>
         <p>1. Descarga e instala la última versión de <a href="https://www.technicpack.net/modpack/pixelmon-reforged.1150447" target="_blank" style="color: #62dafb;">Pixelmon Reforged</a> usando el launcher Technic.</p>
         <p>2. Usa nuestra IP del servidor: <b>play.pixelmonrangers.com</b>.</p>
         <p>3. ¡Conéctate y empieza tu aventura Pokémon!</p>
     </section>
-
     <section>
         <h2>Galería</h2>
         <p>Añade capturas de pantalla y videos de tu experiencia aquí.</p>
     </section>
-
     <section>
         <h2>Contacto</h2>
         <p>¿Tienes preguntas o sugerencias? Contáctanos en <a href="mailto:pixelmonrangers@gmail.com" style="color: #62dafb;">pixelmonrangers@gmail.com</a>.</p>
     </section>
-
     <footer>
         <p>© 2025 Pixelmon Rangers. Todos los derechos reservados.</p>
     </footer>
